@@ -4,6 +4,7 @@
 //
 //  Created by Paetur Petersen on 2/18/13.
 //  Copyright (c) 2013 Paetur Petersen. All rights reserved.
+//  Now in git
 //
 
 #import "TipperBrain.h"
